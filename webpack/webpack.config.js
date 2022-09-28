@@ -13,9 +13,4 @@ module.exports = {
   module: {
     rules: [],
   },
-  resolve: {
-    alias: {
-      src: pathTo("src"),
-    },
-  },
 };
