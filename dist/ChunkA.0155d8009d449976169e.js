@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,function(n,o,e){"use strict";e.r(o),e.d(o,"foo",(function(){return t})),e.d(o,"concat",(function(){return c}));const i=(n,o)=>(console.log("Here's an easily identifiable string so you can find me in Webpack output"),n+o),t=n=>i(n,"Hello"),c=i}]]);

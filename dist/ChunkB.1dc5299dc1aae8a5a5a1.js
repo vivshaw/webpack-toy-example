@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{2:function(n,o,c){"use strict";c.r(o),c.d(o,"bar",(function(){return e}));const{concat:t}=c.e(0).then(c.bind(null,1)),e=n=>t(n," World!")}}]);

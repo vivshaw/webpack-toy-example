@@ -1,0 +1,19 @@
+{
+  "name": "webpack-exapmle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "yarn clean && webpack --config webpack/webpack.config.js"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2",
+    "webpack": "4.42.0",
+    "webpack-cli": "3.3.11"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
